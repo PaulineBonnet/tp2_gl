@@ -1,2 +1,2 @@
 andriasoloson fambara et bonnet pauline
-
+Comme le fichier a été déplacé dans une autre branche, Il n'existe donc plus dans la branche master. Pour cela, on a utilisé la commande git add puis git commit -m.
