@@ -36,11 +36,11 @@ public class System_hospitalier {
 	private String analyserRequete(Requête requête) {
 		// Analyser la requête
 		return "requête analysée";
-	}
+	}//analyserRquete prend en paramètre la requête que l'on veut analyser. Lorsqu'elle a fini de l'analyser, elle renvoit le message de type string "requête analysée".
 	
 	private String comparerDonnes() {
 		// Comparaison des données
 		return "Cluster trouvé";
-	}
+	} // compareDonnes compare toutes les données du système. Si il y a une ressemblance entre plusieurs données, le programme renvoie le message "cluster trouvé", sinon il renvoit rien. 
 
 }
